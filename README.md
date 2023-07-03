@@ -15,4 +15,4 @@ The architecture of the system is described in the paper cited in the reference,
 Figure 1: General architecture of the MaLSTM model
 
 # Reference
-Manhattan Siamese LSTM for Question Retrieval in Community Question Answering
+[Manhattan Siamese LSTM for Question Retrieval in Community Question Answering](https://hal.science/hal-02271338/file/Manhattan_Siamese_LSTM_for_Question_Retrieval_in_Community_Question_Answering__1_.pdf)https://hal.science/hal-02271338/file/Manhattan_Siamese_LSTM_for_Question_Retrieval_in_Community_Question_Answering__1_.pdf
