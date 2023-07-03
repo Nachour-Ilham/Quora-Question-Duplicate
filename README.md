@@ -22,4 +22,6 @@ The architecture of the system is described in the paper cited in the reference,
 
 **Reference**
 
+The Google News word embeddings were trained by Google and are available for download at the following link: https://code.google.com/archive/p/word2vec/.
+
 [Manhattan Siamese LSTM for Question Retrieval in Community Question Answering](https://hal.science/hal-02271338/file/Manhattan_Siamese_LSTM_for_Question_Retrieval_in_Community_Question_Answering__1_.pdf)https://hal.science/hal-02271338/file/Manhattan_Siamese_LSTM_for_Question_Retrieval_in_Community_Question_Answering__1_.pdf
