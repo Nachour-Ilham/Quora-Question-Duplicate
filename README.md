@@ -1,5 +1,6 @@
 **Questions Similarity with Siamese Neural Networks** 
 
+**Objective**
 
 The goal of this project is to build a system using Siamese Neural Networks to learn and determine the similarity between questions. With the rise of platforms such as Quora and Stack Overflow, the task of question retrieval has gained significant attention. It is crucial for users to check if a similar question has already been asked and answered by the community.
 
