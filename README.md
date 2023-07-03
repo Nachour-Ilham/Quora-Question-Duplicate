@@ -14,7 +14,7 @@ The architecture of the system is described in the paper cited in the reference,
 ![image](https://github.com/Nachour-Ilham/Quora-Question-Duplicate/assets/112636125/b240e5ec-4de5-481e-beff-5d5d4ffd637c) 
 
 
-                    Figure 1: General architecture of the MaLSTM model
+                Figure 1: General architecture of the MaLSTM model
 
 
 # Reference
